@@ -7,7 +7,7 @@ namespace DebtSnowballApp.Controllers
         //
         // GET: /Home/
 
-        public ActionResult SampleHomePage()
+        public ActionResult Calculator()
         {
             return PartialView();
         }

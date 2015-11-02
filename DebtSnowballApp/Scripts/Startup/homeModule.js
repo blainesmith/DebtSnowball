@@ -4,7 +4,8 @@
     'ngRoute',
     'dcSpinnerInterceptor',
     'dcDirectiveModule',
-    'formly'
+    'formly',
+    'formlyBootstrap'
 ]).config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
 
     //Index is default route
@@ -14,7 +15,8 @@
 
     .when('/Home/Calculator', {
         templateUrl: 'Home/Calculator',
-        controller: 'appCtrl'
+        controllerAs: 'vm',
+        controller: 'appCtrl'        
     })
 
     .otherwise({
