@@ -33,3 +33,4 @@ c:\Users\bdsmith\Documents\Visual Studio 2015\Projects\DebtSnowballApp\DebtSnowb
 c:\Users\bdsmith\Documents\Visual Studio 2015\Projects\DebtSnowballApp\DebtSnowballApp\bin\System.Web.WebPages.Razor.xml
 c:\Users\bdsmith\Documents\Visual Studio 2015\Projects\DebtSnowballApp\DebtSnowballApp\obj\Debug\DebtSnowballApp.dll
 c:\Users\bdsmith\Documents\Visual Studio 2015\Projects\DebtSnowballApp\DebtSnowballApp\obj\Debug\DebtSnowballApp.pdb
+C:\Users\bdsmith\Documents\Visual Studio 2015\Projects\DebtSnowballApp\DebtSnowballApp\obj\Debug\DebtSnowballApp.csprojResolveAssemblyReference.cache

@@ -161,6 +161,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="README.txt" />
+    <Content Include="Scripts\angular-formly\angular-formly-templates-bootstrap.js" />
+    <Content Include="Scripts\angular-formly\angular-formly-templates-bootstrap.min.js" />
     <Content Include="Scripts\Angular\angular-cookies.js" />
     <Content Include="Scripts\Angular\angular-cookies.min.js" />
     <Content Include="Scripts\Angular\angular-mocks.js" />
@@ -174,6 +176,8 @@
     <Content Include="Scripts\angular-ui\ui-bootstrap.min.js" />
     <Content Include="Scripts\Angular\angular.js" />
     <Content Include="Scripts\Angular\angular.min.js" />
+    <Content Include="Scripts\angular-formly\api-check.js" />
+    <Content Include="Scripts\angular-formly\api-check.min.js" />
     <Content Include="Scripts\App\Controllers\appCtrl.js" />
     <Content Include="Scripts\App\Controllers\globalBarCtrl.js" />
     <Content Include="Scripts\App\Dialogs\dcMessageBoxCtrl.js" />
@@ -206,9 +210,14 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Scripts\angular-formly\formly.min.js.map" />
+    <Content Include="Scripts\angular-formly\api-check.min.js.map" />
+    <Content Include="Scripts\angular-formly\angular-formly-templates-bootstrap.min.js.map" />
     <None Include="Scripts\JQuery\jquery-2.1.4.intellisense.js" />
-    <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\angular-formly\bootstrap.js" />
+    <Content Include="Scripts\angular-formly\bootstrap.min.js" />
+    <Content Include="Scripts\angular-formly\formly.js" />
+    <Content Include="Scripts\angular-formly\formly.min.js" />
     <Content Include="Scripts\JQuery\jquery-2.1.4.js" />
     <Content Include="Scripts\JQuery\jquery-2.1.4.min.js" />
     <Content Include="Scripts\JQuery\jquery-2.1.4.min.map" />

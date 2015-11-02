@@ -3,22 +3,17 @@
     'ngCookies',
     'ngRoute',
     'dcSpinnerInterceptor',
-    'dcDirectiveModule'
+    'dcDirectiveModule',
+    'formly'
 ]).config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
 
     //Index is default route
     $routeProvider.when('/', {
-        redirectTo: "Home/SampleHomePage/"
+        redirectTo: "/Home/Calculator"
     })
 
-    .when('/Account/SampleAccountPage/', {
-        templateUrl: 'Account/SampleAccountPage',
-        controller: 'appCtrl'
-    })
-
-
-    .when('/Home/SampleHomePage/', {
-        templateUrl: 'Home/SampleHomePage',
+    .when('/Home/Calculator', {
+        templateUrl: 'Home/Calculator',
         controller: 'appCtrl'
     })
 

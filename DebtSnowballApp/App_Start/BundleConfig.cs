@@ -16,7 +16,10 @@ namespace DebtSnowballApp.App_Start
                 "~/Scripts/Angular/angular-resource.js",
                 "~/Scripts/Angular/angular-route.js",
                 "~/Scripts/angular-ui/ui-bootstrap.js",
-                "~/Scripts/angular-ui/ui-bootstrap-tpls.js"
+                "~/Scripts/angular-ui/ui-bootstrap-tpls.js",
+                "~/Scripts/angular-formly/api-check.js",
+                "~/Scripts/angular-formly/formly.js",
+                "~/Scripts/angular-formly/angular-formly-templates-bootstrap.js"
                             ));
 
             bundles.Add(new StyleBundle("~/bundles/bootstrap").Include("~/Content/bootstrap.min.css"));
